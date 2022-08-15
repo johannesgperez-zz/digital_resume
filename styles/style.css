@@ -63,8 +63,8 @@ li {
     gap: 4em;
 }
 
-#bio, a{
-    font-weight: 300;
+#bio {
+    font-size: 20px;
 }
 
 #user-name{
